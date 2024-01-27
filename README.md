@@ -151,7 +151,7 @@ curl --request POST \
 
 #### Exemplo de Saída
 ~~~
-
+Curso adicinado com sucesso!
 ~~~
 ---
 
@@ -159,7 +159,7 @@ curl --request POST \
 
 > `GET` /api/orders/pay/{order_id}
 
-Obtenha o qrCode do pix para realizar a compra de todos os itens do carrinho atraves do ID do pedido
+Obtenha o qrCode do pix para realizar a compra de itens do carrinho atraves do ID do pedido
 
 #### Exemplo de entrada
 ~~~
